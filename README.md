@@ -1,6 +1,6 @@
 ### Hello! Link to my LinkedIn: https://www.linkedin.com/in/karina-vyalova/
 <p align="left" dir="auto">
-<a href="https://linkedin.com/in/pavel-mitichkin" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pavel-mitichkin" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://https://www.linkedin.com/in/karina-vyalova" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pavel-mitichkin" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 <!--
 **vyalova-karina/vyalova-karina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
