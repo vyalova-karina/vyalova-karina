@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! Link to my LinkedIn: https://www.linkedin.com/in/karina-vyalova/
 
 <!--
 **vyalova-karina/vyalova-karina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
