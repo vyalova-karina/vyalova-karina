@@ -8,7 +8,7 @@
 ### Connect with me:
 
 <a href="https://linkedin.com/in/karina-vyalova" rel="nofollow">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin Badge" width="40" style="max-width: 100%;">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin Badge" width="40" style="margin-right: 60px; max-width: 100%;">
 </a>
 
 <a href="https://t.me/karina_vka" rel="nofollow">
