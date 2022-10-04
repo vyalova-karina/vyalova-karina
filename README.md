@@ -1,4 +1,4 @@
-## <p align="center">Hello!</p>
+## <p align="center">Hello! I'm Junior QA Engineer</p>
 
 <p align="center" dir="auto">
     <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝
