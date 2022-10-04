@@ -1,4 +1,4 @@
-## Hello!
+## <p align="center">Hello!</p>
 
 <p dir="auto">
     <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝
