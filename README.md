@@ -2,7 +2,7 @@
 
 <p align="center" dir="auto">
     <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝
-    </g-emoji> Examples of <a href="https://trello.com/w/test_practice">Test artifacts</a> on "Trello".
+    </g-emoji> Examples of <a href="https://trello.com/w/vyalova_test_practice">Test artifacts</a> on "Trello".
 </p>
 
 ### <p align="center">Connect with me:</p>
